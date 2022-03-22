@@ -6,8 +6,7 @@ void main() {
   runApp(MaterialApp(
     initialRoute: '/',
     routes: {
-      '/': (context) => HomePage(),
-      '/item': (context) => const ItemPage(),
+      
     },
   ));
 }
